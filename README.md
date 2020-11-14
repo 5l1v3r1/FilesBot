@@ -31,3 +31,6 @@
 - `TG_AUTH_USERS`:
   - send `/id` command to [@googleIMGBot](https://telegram.dog/googleIMGBot) to get this value. [ atleast, two users are required ]
   - you can also set `ALL` value in this field, to give everyone access to your File Sharing RoBot.
+
+# Credit
+* [Spechide](https://GitHub.com/Spechide) For Code
